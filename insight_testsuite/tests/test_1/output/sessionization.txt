@@ -1,0 +1,2 @@
+ip,start_date time,end_date time,session_duration,num_of_pages_accessed_per_session
+101.81.133.jja,2017-06-30 00:00:00,2017-06-30 00:00:00,1,1
